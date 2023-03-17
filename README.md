@@ -39,8 +39,9 @@
 <img src="https://user-images.githubusercontent.com/110000734/225843566-0ee9aa3f-309e-43e5-bb12-623d5d9f2d08.png" width=500>
 
 
-
-**일부 데이터 검증에서는 어느정도 예측이 가능했다.**
+**일부 데이터 검증**
+- 예측가능하도록 흑백데이터로 변경 후 예측 진행
+- 일부 데이터 검증에서는 어느정도 예측이 가능했다.
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/110000734/225834055-d40516bf-d87a-4926-ba15-f49451c3f10f.JPG" width=500>
 
