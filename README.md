@@ -48,9 +48,9 @@
 **하지만 검증결과와 다르게 예측력이 좋지는 않았다.**
   
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/110000734/225845640-b24016a0-24c7-47f4-9db9-34c6e8d60524.png" width=420>
+<img src="https://user-images.githubusercontent.com/110000734/225845640-b24016a0-24c7-47f4-9db9-34c6e8d60524.png" width=400>
 <img src="https://user-images.githubusercontent.com/110000734/225846621-e85e1dd5-cdfd-4e26-a8ca-c929b11fa2f0.png" width=100>
-<img src="https://user-images.githubusercontent.com/110000734/225843447-b8cd0e84-1b33-47b3-8b3b-2e6bb781957e.png" width=350>
+<img src="https://user-images.githubusercontent.com/110000734/225843447-b8cd0e84-1b33-47b3-8b3b-2e6bb781957e.png" width=320>
 
 
 ### **프로젝트 결과 및 회고**
